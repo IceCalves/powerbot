@@ -198,7 +198,7 @@ public final class Constants {
 	public static final int BACKPACK_SCROLLBAR = 3;
 	public static final int BACKPACK_VIEW = 6;
 	public static final int BACKPACK_CONTAINER = 6;
-	public static final int BACKPACK_BANK = 762 << 16 | 27;
+	public static final int BACKPACK_BANK = 762 << 16 | 28;
 	public static final int BACKPACK_DEPOSITBOX = 11 << 16 | 1;
 	public static final int BACKPACK_GEAR = 1474 << 16 | 13;
 	public static final int FAMILIAR_BACKPACK = FAMILIAR_INVENTORY_WIDGET << 16 | PLAYER_INVENTORY_ITEMS;
